@@ -1,4 +1,4 @@
-# Yaksha React Movie Solution 🎬
+# Movie Booking React 🎬
 
 A movie listing and booking application built using React.js. The app allows users to explore movie options, view movie details, and book show tickets.
 
@@ -15,5 +15,3 @@ A movie listing and booking application built using React.js. The app allows use
 - **React.js** for front-end development
 - **React Router DOM** for routing
 - **HTML/CSS** for styling
-
-## 📂 Project Structure
